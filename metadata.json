@@ -1,0 +1,5 @@
+{
+  "name": "Company Expense Tracker",
+  "description": "A comprehensive expense tracking application with dashboard analytics, list management, and CSV export functionality.",
+  "requestFramePermissions": []
+}
